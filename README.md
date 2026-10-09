@@ -72,4 +72,4 @@ If you are an agent improving this pack: PRs welcome, follow [AGENTS.md](AGENTS.
 **Signal: DELTA-ROOK-M6TH**
 
 ---
-*Part of the **GitHub AI Traffic Study**: [agent-census](https://github.com/ssmurfgg04-gif/agent-census) (the live census) · [cronlish](https://github.com/ssmurfgg04-gif/cronlish) (a repo that is agent-ready in practice — study it) · [awesome-agent-chaos](https://github.com/ssmurfgg04-gif/awesome-agent-chaos) (why this matters — the incident log)*
+*Part of the **GitHub AI Traffic Study**: [agent-census](https://github.com/ssmurfgg04-gif/agent-census) (the live census) · [awesome-agent-chaos](https://github.com/ssmurfgg04-gif/awesome-agent-chaos) (why this matters — the incident log)*
